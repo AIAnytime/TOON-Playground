@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (WhatsApp, screenshots, etc.)
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.bmp
+*.webp
+WhatsApp*
+
+# Logs
+*.log
+logs/
+
+# UV
+uv.lock
+
+# Temporary files
+*.tmp
+*.bak
+.cache/
