@@ -166,50 +166,15 @@ curl -X POST http://localhost:8000/api/llm-test \
   }'
 ```
 
-## 🎨 Design Choices
-
-### Typography
-- **Headers**: Poppins (Google Fonts) - modern, geometric sans-serif
-- **Body Text**: Inter (Google Fonts) - optimized for screen readability
-- **Code**: Monaco, Menlo, Consolas - monospace for code display
-
-### Color Scheme
-- **Primary**: Indigo (#6366f1) - trust, intelligence
-- **Success**: Green (#10b981) - savings, efficiency
-- **Warning**: Amber (#f59e0b) - attention
-- **Backgrounds**: Light grays with subtle gradients
-
-### Layout
-- Responsive grid system
-- Card-based components
-- Smooth animations and transitions
-- Mobile-first approach
-
 ## 📖 Learn More
 
 - **TOON Specification**: https://github.com/toon-format/spec
 - **Official Documentation**: https://toonformat.dev
 - **TypeScript Implementation**: https://github.com/toon-format/toon
-- **Research Article**: See `article.md` in this repo
-
-## 🤝 Contributing
-
-This playground is open for contributions! Ideas:
-- Add more example datasets
-- Support for other LLM providers (Anthropic, etc.)
-- TOON-to-JSON decoder
-- Performance benchmarks visualization
-- Export functionality
 
 ## 📝 License
 
 MIT License - feel free to use and modify!
-
-## 🙏 Credits
-
-- **TOON Format**: Created by the TOON community
-- **Playground**: Built with FastAPI, Python, and modern web standards
-- **Fonts**: Poppins and Inter from Google Fonts
 
 ---
 
